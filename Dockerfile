@@ -37,4 +37,4 @@ RUN install.r furrr
 ## RUN install.r clustermq ## heavy set of dependencies
 
 ## Other stuff I use a lot
-RUN install.r caret
+RUN install.r caret fastAdaboost e1071
